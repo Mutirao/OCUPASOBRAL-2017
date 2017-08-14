@@ -7,7 +7,7 @@ Projeto 17-002_JV
 
 
 ### Cronograma:
-- Consulta Pública: 7 de agosto a 14 de agosto de 2017
+- Consulta Pública: 9 de agosto a 15 de agosto de 2017
 - Lançamento Edital: 17 de agosto de 2017 
 - Inscrições: 17 de agosto de 2017 a 10 de setembro de 2017
 - Oficinas tira-dúvidas: presencial (28/08), online (23/08) e (07/09)  No caso das oficinas presenciais, sugiro pelo menos 3, além das 2 on-line.  
